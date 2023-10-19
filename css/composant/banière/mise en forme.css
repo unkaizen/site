@@ -1,0 +1,25 @@
+.banière {
+  color: floralwhite;
+  padding: 100px 0px;
+  margin: 0px;
+}
+.banière h1 {
+  color: white;
+  font-family: Courier;
+  font-size: 30px;
+  font-weight: 900;
+  margin: 10px auto;
+  width: 200px;
+}
+.banière h2 {
+  text-decoration: underline;
+  font-size: 18px;
+  color: blueviolet;
+  margin: 10px auto;
+  width: 200px;
+}
+.banière {
+  background-image: url("manga1.jpg");
+  background-size: cover;
+  background-position: center;
+}
